@@ -5,7 +5,7 @@ Aspiring full-stack dev from Peru 🇵🇪 | Passionate about building powerful,
 🔭 Currently building: `J-Notes`, `OnGuard`, and the `Mate Bundle` (in secret...) 
 🌱 Learning: TypeScript, Clean Architecture, and system design  
 💬 Ask me about: Firebase, React, Kotlin, PWA development  
-📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jfmarcenaroa/))  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jfmarcenaroa/)  
 ⚡ Fun fact: I plan to build my own mobile OS... because why not?
 
 ---

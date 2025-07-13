@@ -1,6 +1,6 @@
 # Hi there, I'm Juan Francisco 👋
 
-Aspiring full-stack dev from Peru 🇵🇪 | Passionate about building powerful, clean, and intuitive **web** & **mobile** apps.
+Aspiring iOS / full-stack dev from Peru 🇵🇪 | Passionate about building powerful, clean, and intuitive **web** & **mobile** apps.
 
 🔭 Currently building: `J-Notes`, `OnGuard`, and the `Mate Bundle` (in secret...) 
 🌱 Learning: TypeScript, Clean Architecture, and system design  
